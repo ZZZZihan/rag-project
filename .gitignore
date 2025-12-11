@@ -1,0 +1,17 @@
+# Environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local configuration
+.env
+
+# Generated data
+data/
+vector_db/
+
+# Misc tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
